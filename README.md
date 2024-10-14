@@ -1,5 +1,7 @@
 # Stacks syntect::SyntaxSet Generator
 
+![Screenshot](./screenshot.png)
+
 This project generates a
 [`syntect::SyntaxSet`](https://docs.rs/syntect/latest/syntect/parsing/struct.SyntaxSet.html)
 binary used by the
