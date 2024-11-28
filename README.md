@@ -1,4 +1,4 @@
-# Stacks syntect::SyntaxSet Generator
+# syntect::SyntaxSet defaults + Nushell generator
 
 ![Screenshot](./screenshot.png)
 
@@ -10,8 +10,8 @@ binary used by the
 ### Instructions to Generate the `SyntaxSet`
 
 ```bash
-git clone https://github.com/cablehead/stacks-syntaxset.git
-cd stacks-syntaxset
+git clone https://github.com/cablehead/syntect-SyntaxSet-with-nushell.git
+cd syntect-SyntaxSet-with-nushell
 cargo r
 ```
 
